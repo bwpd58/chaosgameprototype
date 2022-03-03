@@ -1,0 +1,30 @@
+
+body, html {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#mainwrapper {
+	display: inline;
+}
+
+
+#webgl {
+    position: relative;
+    display: block;
+    margin: auto;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+#inputDiv {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
